@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## Something about me
+
+I am 26 years old and currently live in Gdynia.
+I likie to learn about psychology, go to the gym and programming :muscle: :man_technologist: :man_technologist:
+
+
+
 <!--
 **ShoeRiderr/ShoeRiderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
