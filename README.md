@@ -18,7 +18,7 @@ go to the gym and programming of course. :thought_balloon: :muscle: :man_technol
 * Vue
 * Angular
 * Git
-* Linux
+* Linux OS
 * Windows OS
 * Mac OS
 * MySQL
