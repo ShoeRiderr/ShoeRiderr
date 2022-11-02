@@ -2,7 +2,7 @@
 
 ## :man: About me
 
-I am 26 years old and currently live in Gdynia.\
+I am 26 years old and currently live in Poznań.\
 I like to learn about psychology,\
 go to the gym and programming :thought_balloon: :muscle: :man_technologist:
 
