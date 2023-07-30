@@ -26,6 +26,3 @@ You can call me a Man of many interests. :skull:
 * Twig
 * HTML
 * CSS and SCSS
-
-## :speech_balloon: I also invite you to my blog, where I put some programming content from time to time. :open_hands:
-[kamilsocha.com.pl](https://kamilsocha.com.pl)
