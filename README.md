@@ -19,12 +19,12 @@ I invite you to visit my resume webpage under [that link](https://shoeriderr.git
 * Laravel
 * Symfony
 * Vue
-* Angular
 * Git
 * Linux OS
 * Windows OS
 * Mac OS
 * MySQL
-* Twig
 * HTML
 * CSS and SCSS
+* Docker
+* Docker compose
