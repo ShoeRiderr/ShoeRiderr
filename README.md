@@ -20,3 +20,6 @@ I invite you to visit my resume webpage under [that link](https://shoeriderr.git
 * Windows OS
 * Mac OS
 * MySQL
+
+## Here are the apps, which you can download and use:
+* [FlashCard Master (prerelease)](https://drive.google.com/file/d/1SFn0ZvpF4LHhMn__H3FeHCnz6ocrBdHc/view?usp=sharing)
