@@ -22,4 +22,4 @@ I invite you to visit my resume webpage under [that link](https://shoeriderr.git
 * MySQL
 
 ## Here are the apps, which you can download and use:
-* [FlashCard Master (prerelease) - Android](https://play.google.com/apps/internaltest/4701396368463249043)
+* [FlashCard Master (prerelease) - Android](https://drive.google.com/file/d/1FvjqQ44utElHGqe_4JOSVc9Nzfdg6TYo/download)
