@@ -6,7 +6,7 @@ Passionate programmer, Multilangular and traveler spirit.
 
 I invite you to visit my resume webpage under [that link](https://shoeriderr.github.io/kamil-socha-resume/).
 
-[![Linkedin logo](https://www.flaticon.com/free-icon/linkedin_174857)](https://www.linkedin.com/in/kamill-socha)
+[Linkedin](https://www.linkedin.com/in/kamill-socha)
 
 
 ## :wrench: My tech stack
