@@ -2,12 +2,13 @@
 
 ## :man: About me
 
-Passionate programmer, Multilangular and traveler spirit. 
+Passionate programmer, Multilangular and traveler spirit.
+
+Aspiring AI/Python Developer
 
 I invite you to visit my resume webpage under [that link](https://shoeriderr.github.io/kamil-socha-resume/).
 
 [Linkedin](https://www.linkedin.com/in/kamill-socha)
-
 
 ## :wrench: My tech stack
 * PHP
