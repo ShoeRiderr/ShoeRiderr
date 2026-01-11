@@ -12,6 +12,7 @@ I invite you to visit my resume webpage under [that link](https://shoeriderr.git
 
 ## :wrench: My tech stack
 * PHP
+* Python
 * Java Script
 * Laravel
 * Flutter
